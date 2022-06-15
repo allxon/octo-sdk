@@ -2,22 +2,6 @@
 
 ## Install 
 Download binary archive from [release page](https://github.com/allxon/plugIN-sdk-v2/releases)
- 
-## Dependency
-- cmake 3.23.2
-- OpenSSL
-
-### Install cmake
-```bash
-wget https://github.com/Kitware/CMake/releases/download/v3.23.2/cmake-3.23.2-linux-x86_64.tar.gz
-tar -xf cmake-3.23.2-linux-x86_64.tar.gz && sudo cp -r cmake-3.23.2-linux-x86_64/* /usr
-```
-
-### Install OpenSSL
-```bash
-apt-get update
-apt-get install libssl-dev 
-```
 
 ## Usage Example
 
