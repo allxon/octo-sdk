@@ -1,7 +1,7 @@
-# PlugIN SDK
+# Octo SDK
 
 ## Install 
-Download binary archive from [release page](https://github.com/allxon/plugIN-sdk-v2/releases)
+Download binary archive from [release page](https://github.com/allxon/octo-sdk/releases)
 
 ## Usage Example
 
